@@ -1,4 +1,3 @@
-# nonadmin_installations
 
 # Terraform nonadmin installation
 In the powershell please enter below commands 
